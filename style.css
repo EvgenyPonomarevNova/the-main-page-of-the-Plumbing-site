@@ -179,7 +179,7 @@ body {
   z-index: 1000;
   font-family: "Tenor Sans", sans-serif;
   flex-direction: column-reverse;
-  background-image: url(./img/bagr.webp);
+  background-image: url(./img/bagr.jpg);
   background-size: cover;
 }
 
