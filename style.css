@@ -183,19 +183,7 @@ body {
   z-index: 1000;
   font-family: "Tenor Sans", sans-serif;
   flex-direction: column-reverse;
-  background-image: linear-gradient(to right bottom,
-      rgba(0, 0, 0, 0) -127%,
-      rgba(0, 0, 0, 0.56) 19%,
-      rgba(255, 255, 255, 0) 59%),
-    linear-gradient(to right bottom,
-      rgba(0, 0, 0, 0) 74%,
-      rgba(13, 13, 13, 1) 112%),
-    linear-gradient(to right top,
-      rgba(13, 13, 13, 1) 0%,
-      rgba(255, 255, 255, 0) 34%),
-    linear-gradient(rgba(0, 0, 0, 0) 52%,
-      rgba(13, 13, 13, 1) 100%),
-    var(--image-bg);
+  background-image: url(./img/bagr.jpg);
   background-size: cover;
 }
 
